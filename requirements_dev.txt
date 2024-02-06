@@ -1,9 +1,8 @@
-ipywidgets
-notebook
-ensure
-py-youtube
+#project requirements down below
 
-# dev requirements
+
+
+# dev requirements down below
 pytest
 tox
 black

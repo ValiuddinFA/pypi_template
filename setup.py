@@ -3,11 +3,11 @@ import setuptools
 with open("README.md","r",encoding="utf-8") as f:
     long_description = f.read()
 
-__version__="0.0.0"
-REPO_NAME="IPYNBrenderer"
-AUTHOR_USER_NAME="valiuddin"
-SRC_REPO="IPYNBrenderer"
-AUTHOR_EMAIL="valiuddin.qureshi@forgeahead.io"
+__version__="0.0.0" # update as per requirement
+REPO_NAME="<YOUR REPO NAME>"
+AUTHOR_USER_NAME="<YOUR USERNAME>"
+SRC_REPO="<YOUR REPO NAME>"
+AUTHOR_EMAIL="<YOUR EMAIL ID>"
 
 setuptools.setup(
     name=SRC_REPO,
