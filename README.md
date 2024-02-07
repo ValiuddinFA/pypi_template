@@ -11,5 +11,6 @@
 >tox.ini (OPTIONAL): Update the python versions in accordance to the needs of the project.
 3. For the setup, run the following command in your terminal: bash init_setup.sh
 4. From the ci.yml file, remove the first line and un-comment everything.
-5. Commit the changes made to the repository for the workflow.
-6. Check your workflow on your GitHub repository by clicking on the "Actions" tab.
+5. Create the files needed for the project. Go through Step 2 again to update the files as per the need of the project.
+6. Commit the changes made to the repository for the workflow.
+7. Check your workflow on your GitHub repository by clicking on the "Actions" tab.
